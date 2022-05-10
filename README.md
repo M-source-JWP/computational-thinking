@@ -1,5 +1,10 @@
 # computational-thinking
-This is an excerpt of my Computational Thinking curriculum, showcased with permission. The entire curriculum spans across 5 one-hour lessons, and aims to teach students about various computer science concepts such as image representation, algorithms, and binary using practical exercises and a written curriculum for a student and their CODEinitiative volunteer teacher.
+This is an excerpt of the practical portion of my Computational Thinking curriculum made for The C.O.D.E Initiative, showcased with permission. The entire curriculum spans across 5 one-hour lessons, and aims to teach students about various computer science concepts such as image representation, algorithms, and binary using practical exercises and a written curriculum for a student and their CODEinitiative volunteer teacher.
+
+[Image of code](CT sc1.png) [Image of translated blocks](CT sc2.png)
+
+This lesson in particular deals with image representation, and so the .py code file deal with translating information in custom data structures into blocks in a student's Minecraft world, using Minecraft Education Edition's Agent and in-game code editor - the python code can also be translated into code block format in game to make it easier to comprehend for younger students.
+
 
 ## Lesson 2 - Image representation 
 (Adapated from https://classic.csunplugged.org/image-representation/)
